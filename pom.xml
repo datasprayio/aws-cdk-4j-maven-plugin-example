@@ -24,9 +24,9 @@
                 </configuration>
             </plugin>
             <plugin>
-                <groupId>io.linguarobot</groupId>
+                <groupId>io.dataspray</groupId>
                 <artifactId>aws-cdk-maven-plugin</artifactId>
-                <version>0.0.8</version>
+                <version>1.0.0</version>
                 <executions>
                     <execution>
                         <id>deploy</id>
