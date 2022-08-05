@@ -33,6 +33,6 @@ empty, the deployment will be skipped (you should see a corresponding message in
 
 
 [1]: https://aws.amazon.com/cdk
-[2]: https://github.com/dataspray/aws-cdk-maven-plugin
+[2]: https://github.com/datasprayio/aws-cdk-maven-plugin
 [3]: https://docs.aws.amazon.com/cdk/latest/guide/context.html
 [4]: https://docs.aws.amazon.com/cdk/latest/guide/home.html
