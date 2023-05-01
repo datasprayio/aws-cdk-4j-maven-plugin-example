@@ -1,9 +1,9 @@
 # AWS CDK Application
 
-This is a blank project for an [AWS CDK][1] application that is using [aws-cdk-maven-plugin][2]. If 
+This is a blank project for an [AWS CDK][1] application that is using [aws-cdk][2]. If 
 you're new to AWS CDK, please refer to the [official developer guide][4]. Though the documentation uses 
 `cdk` CLI, you should be able to use all the examples with the only difference that you use 
-`aws-cdk-maven-plugin` instead of running the CLI commands like `cdk synth` or `cdk deploy` etc.
+`aws-cdk` instead of running the CLI commands like `cdk synth` or `cdk deploy` etc.
 
 ## Project Structure
 
@@ -33,6 +33,6 @@ empty, the deployment will be skipped (you should see a corresponding message in
 
 
 [1]: https://aws.amazon.com/cdk
-[2]: https://github.com/datasprayio/aws-cdk-maven-plugin
+[2]: https://github.com/datasprayio/aws-cdk-4j
 [3]: https://docs.aws.amazon.com/cdk/latest/guide/context.html
 [4]: https://docs.aws.amazon.com/cdk/latest/guide/home.html
